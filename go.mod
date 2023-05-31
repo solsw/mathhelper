@@ -2,4 +2,4 @@ module github.com/solsw/mathhelper
 
 go 1.18
 
-require golang.org/x/exp v0.0.0-20230314191032-db074128a8ec
+require golang.org/x/exp v0.0.0-20230522175609-2e198f4a06a1
